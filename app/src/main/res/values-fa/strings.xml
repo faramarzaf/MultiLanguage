@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">اپ چند زبانه</string>
+
+    <string name="welcome">ورود به حساب کاربری</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">رمز عبور</string>
+    <string name="login">ورود</string>
+    <string name="forget">رمز خود را فراموش کرده اید؟</string>
+    <string name="register">حساب کاربری ندارید؟ ثبت نام</string>
+
+    <string name="language">فارسی</string>
+
+
+
+</resources>
